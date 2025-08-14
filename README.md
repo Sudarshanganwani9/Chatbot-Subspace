@@ -40,7 +40,7 @@ Make sure you have Node.js installed (v16 or later).
 
 ### 1. Clone the repository
 
-### git clone https://github.com/your-username/Chatbot-Subspace.git
+### git clone https://github.com/Sudarshanganwani9/Chatbot-Subspace
 cd Chatbot-Subspace-main
 
 
